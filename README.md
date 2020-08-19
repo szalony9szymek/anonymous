@@ -1,4 +1,4 @@
-# Anonfiles.com uploader for bash
+# Unofficial anonfiles.com uploader for bash
 # TO USE THIS YOU NEED TO HAVE CURL INSTALLED
 Use at your own responsibility!  
 Download from releases.  
